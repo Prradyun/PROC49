@@ -2,4 +2,4 @@
 
 OUTPUT LINK
 
-https://prradyun.github.io/PROC49/
+https://prradyun.github.io/PROC49/index.html
